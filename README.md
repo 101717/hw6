@@ -19,6 +19,7 @@
 # Часть 2
 
 **1**
+
 ![](https://github.com/101717/hw6/blob/master/question_modifiers.png)
 
 **2**
