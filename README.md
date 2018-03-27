@@ -23,3 +23,5 @@
 ![](https://github.com/101717/hw6/blob/master/question_modifiers.png)
 
 **2**
+
+Выбранные слова - rise и ascend. Первое переводится как 'подниматься', второе как 'восходить'
