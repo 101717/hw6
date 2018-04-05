@@ -5,8 +5,12 @@
 **1**
 ![](https://github.com/101717/hw6/blob/master/due%20to%20the.png)
 
+Для того, чтобы выполнить задание, потребовалось в стркое поиска поставить звёздочку после "due to the".
+
 **2**
 ![](https://github.com/101717/hw6/blob/master/step_noun_verb.png)
+
+Во втором пункте достаточно было исопльзовать конструкции "_NOUN" и "_VERB", написанные после нужного слова.
 
 **3**
 ![](https://github.com/101717/hw6/blob/master/flat_apartment.png)
@@ -21,6 +25,8 @@
 **1**
 
 ![](https://github.com/101717/hw6/blob/master/question_modifiers.png)
+
+Для получения скриншота был использован инструмент "Word Sketch" и данные British National Corpus". Также в запросе было дополнительно указано, что слово - существительное. 
 
 **2**
 
@@ -40,7 +46,7 @@
 
 Было выбрано слово 'award'
 
-Данные BNC из Sketchengine:
+Данные BNC с использованием Sketchengine:
 
 ![](https://github.com/101717/hw6/blob/master/award_sketchengine.png)
 ![](https://github.com/101717/hw6/blob/master/award_sketchengine2.png)
